@@ -103,6 +103,7 @@ nav{
     border-radius: 12px;
     filter: grayscale(0);
     transition: filter 1s;
+    border: 1px solid #fff;
 }
 
 .left-col img:hover{
